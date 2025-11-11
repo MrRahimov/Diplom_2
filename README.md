@@ -7,9 +7,3 @@ pip install -r requirements.txt
 pytest -s --alluredir=allure-results
 3. Сгенерировать и открыть отчёт:
 allure serve allure-results
-# Diplom
-2
-# Diplom
-2
-# Diplom
-2
